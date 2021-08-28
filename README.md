@@ -4,7 +4,7 @@ Hello this is simple users api
 
 ```
 PORT=your own localhost port
-DB_URL=your local url db or cluster url
+DB_URL=your local url db or cluster url (only mongodb url)
 SECRET_KEY=your secret key
 ```
 
